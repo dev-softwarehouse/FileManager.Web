@@ -1,0 +1,70 @@
+{
+  "name": "open-window",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "10.0"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@microsoft/signalr": "^3.1.9",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.20.0",
+    "babel-plugin-idx": "^2.4.0",
+    "date-fns": "^2.16.1",
+    "express": "^4.17.1",
+    "file-saver": "^2.0.5",
+    "fontsource-roboto": "^3.0.3",
+    "idx": "^2.5.6",
+    "js-file-download": "^0.4.12",
+    "lodash.omit": "^4.5.0",
+    "material-table": "^1.69.1",
+    "moment": "^2.29.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.14.0",
+    "react-autosuggest": "^10.0.3",
+    "react-datepicker": "^3.3.0",
+    "react-dom": "^16.13.1",
+    "react-input-mask": "^3.0.0-alpha.2",
+    "react-isolated-scroll": "^0.1.1",
+    "react-material-ui-form-validator": "^2.1.4",
+    "react-popup-alert": "^2.0.0",
+    "react-rating-stars-component": "^2.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "react-tag-autocomplete": "^6.1.0",
+    "react-time-ago": "^6.2.2",
+    "sequelize": "^6.3.5",
+    "styled-components": "^5.2.0",
+    "tedious": "^9.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:8080",
+  "secure": false,
+  "resolutions": {
+    "styled-components": "^5"
+  }
+}

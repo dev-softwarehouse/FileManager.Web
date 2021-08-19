@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Inertia.Core.Contracts\Interia.Core.Contracts.csproj" />
+		<ProjectReference Include="..\Interia.Dto\Interia.Dto.csproj" />
+		<ProjectReference Include="..\Interia.Resources\Interia.Resources.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
+			<_Parameter1>Interia.FileProviders.Tests</_Parameter1>
+		</AssemblyAttribute>
+	</ItemGroup>
+</Project>

@@ -1,0 +1,210 @@
+{
+   "attributes":{
+      "9QAI":{
+         "id":"9QAI",
+         "name":"Size",
+         "type":"select",
+         "required":false,
+         "use_variation":true,
+         "values":{
+            "options":[
+               {
+                  "value":"X-Small (Chest 34\")",
+                  "title":"X-Small (Chest 34\")",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"Small (Chest 36\")",
+                  "title":"Small (Chest 36\")",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"Medium (Chest 40\")",
+                  "title":"Medium (Chest 40\")",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"Large (Chest 44\")",
+                  "title":"Large (Chest 44\")",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"X-Large (Chest 48\")",
+                  "title":"X-Large (Chest 48\")",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"2XL (Chest 52\")",
+                  "title":"2XL (Chest 52\")",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"3XL (Chest 56\")",
+                  "title":"3XL (Chest 56\")",
+                  "price":"",
+                  "default":""
+               }
+            ]
+         },
+         "value":"X-Small (Chest 34\")"
+      },
+      "CQ42":{
+         "id":"CQ42",
+         "name":"Colour",
+         "type":"product_color",
+         "required":false,
+         "use_variation":true,
+         "values":{
+            "options":[
+               {
+                  "value":"#ffffff",
+                  "title":"Arctic White",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#31637f",
+                  "title":"Airforce Blue",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#ffb3fa",
+                  "title":"Baby Pink",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#0f583e",
+                  "title":"Bottle Green",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#903e5c",
+                  "title":"Burgundy",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#ff69f2",
+                  "title":"Candyfloss Pink",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#583c2b",
+                  "title":"Caramel Toffee",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#0d120f",
+                  "title":"Charcoal",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#da0043",
+                  "title":"Fire Red",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#fbbf48",
+                  "title":"Gold",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#00dcfa",
+                  "title":"Hawaiian Blue",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#c0c5c9",
+                  "title":"Heather Grey",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#000000",
+                  "title":"Jet Black",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#2fc074",
+                  "title":"Kelly Green",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#9fd84a",
+                  "title":"Lime Green",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#e19e0f",
+                  "title":"Mustard",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#ff8517",
+                  "title":"Orange Crush",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#222d4e",
+                  "title":"Oxford Navy",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#6f4999",
+                  "title":"Purple",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#1452be",
+                  "title":"Royal Blue",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#a1d2ec",
+                  "title":"Sky Blue",
+                  "price":"",
+                  "default":""
+               },
+               {
+                  "value":"#ffe800",
+                  "title":"Sun Yellow",
+                  "price":"",
+                  "default":""
+               }
+            ]
+         },
+         "value":"#ff69f2"
+      },
+      "quantity":{
+         "id":"quantity",
+         "name":"Quantity",
+         "value":"1",
+         "type":"quantity"
+      }
+   },
+   "printing":1,
+   "variation":"JX04"
+}
